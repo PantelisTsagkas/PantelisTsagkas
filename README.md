@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pantelis-t-6a7718249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/PTsagkas01" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.askbetter.co.uk" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://www.askbetter.co.uk" target="_blank"><img src="https://img.shields.io/badge/-AskBetter-FF5722?style=flat&logo=firefox-browser&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=PantelisTsagkas&style=flat&color=brightgreen" alt="Profile views" />
 </p>
 
@@ -23,6 +23,13 @@ PUSH sign, I PULL it first to avoid any conflicts.*
 
 ---
 
+## 🎖️ Certifications & Achievements
+
+- [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/35530fa2-1b3c-4e7a-a6f9-91f3d6ee8a6f/public_url)  
+  *Earned on 06/2025 — Demonstrates foundational knowledge of ML & AI services on AWS.*
+
+---
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,6 +38,7 @@ PUSH sign, I PULL it first to avoid any conflicts.*
   <img src="https://img.shields.io/badge/-APIs-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
 
 ---
 
