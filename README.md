@@ -2,11 +2,13 @@
 
 ### Apprentice Test Engineer & Machine Learning Enthusiast
 
+
+
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on [askbetter.co.uk](https://www.askbetter.co.uk) 
+- 🔭 I'm currently working on [askbetter.co.uk](https://www.askbetter.co.uk)
 - 🌱 I'm currently learning **Next.js Full stack Development, AWS Cloud Computing & Prompt Engineering**
 - 👯 I'm looking to collaborate on **LLM tools and open-source testing frameworks**
 - 🤔 Ask me about **testing strategies, APIs, or LLM evaluation**
@@ -38,20 +40,17 @@
 
 ## 🛠️ Tech Stack
 
+
+
 ---
 
 ## 📈 GitHub Stats
 
----
 
-## 🌐 Links
 
-- 🔗 [Portfolio](https://pantelis-tsagkas.com)
-- 🦷 [Georgia Yfanti – Dentist](https://georgia-yfanti.vercel.app)
-- 🚀 [AskBetter](https://www.askbetter.co.uk)
-- 📦 [AMZN Tracker](https://amzn-tracker.vercel.app/)
-- 🗺️ [Diane – Guide for Lesvos](https://diane-guide-for-lesvos.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pantelis-t-6a7718249/)
+
+
+
 
 ---
 
