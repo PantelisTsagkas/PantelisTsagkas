@@ -28,8 +28,8 @@
 | ---------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | **Portfolio**                | Personal site & project hub                                                                              | [pantelis-tsagkas.com](https://pantelis-tsagkas.com)                            |
 | **AskBetter**                | **Prompt enhancement** — turn rough prompts into stronger instructions (“your personal prompt engineer”) | [askbetter.co.uk](https://www.askbetter.co.uk)                                  |
-| **AMZN Tracker**             | Live **AMZN** (Amazon) stock tracker                                                                     | [amzn-tracker.vercel.app](https://amzn-tracker.vercel.app/)                     |
-| **Diane – Guide for Lesvos** | Guide for Lesvos                                                                                         | [diane-guide-for-lesvos.vercel.app](https://diane-guide-for-lesvos.vercel.app/) |
+| **[AMZN Tracker](https://github.com/PantelisTsagkas/amzn_tracker)** | Live **AMZN** (Amazon) stock tracker                                                                     | [amzn-tracker.vercel.app](https://amzn-tracker.vercel.app/)                     |
+| **[Diane – Guide for Lesvos](https://github.com/PantelisTsagkas/diane_guide_for_lesvos)** | Guide for Lesvos                                                                                         | [diane-guide-for-lesvos.vercel.app](https://diane-guide-for-lesvos.vercel.app/) |
 | **Georgia Yfanti – Dentist** | **Surgical dentist** practice site — modern family & cosmetic dentistry, **Ilion, Attica**               | [georgia-yfanti.vercel.app](https://georgia-yfanti.vercel.app)                  |
 
 ---
