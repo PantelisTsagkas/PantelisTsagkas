@@ -4,10 +4,8 @@
 
 <p align="center">
   <a href="https://pantelis-tsagkas.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=flat&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://georgia-yfanti.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Georgia%20Yfanti%20Dentist-E91E63?style=flat&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pantelis-t-6a7718249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/PTsagkas01" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://www.askbetter.co.uk" target="_blank"><img src="https://img.shields.io/badge/-AskBetter-FF5722?style=flat&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pantelis-t-6a7718249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=PantelisTsagkas&style=flat&color=brightgreen" alt="Profile views" />
 </p>
 
