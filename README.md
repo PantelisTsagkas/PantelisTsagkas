@@ -93,7 +93,7 @@ Right now I'm:
 
 ## Certifications
 
-### AWS
+Exam-based credentials (paid certification exams).
 
 <table>
   <tr>
@@ -105,6 +105,41 @@ Right now I'm:
     <td>
       <strong><a href="https://www.credly.com/badges/35530fa2-1b3c-4e7a-a6f9-91f3d6ee8a6f/public_url">AWS Certified AI Practitioner</a></strong> — June 2025<br/>
       Foundational AI, ML, and AWS AI services.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Courses & Training
+
+Hands-on Cloud Quest roles, learning paths, and completed courses.
+
+### AWS Cloud Quest
+
+<table>
+  <tr>
+    <td width="120">
+      <!-- TODO: swap org link for personal Credly public_url -->
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+        <img src="./assets/aws_cloud_quest_cp.png" alt="AWS Cloud Quest Cloud Practitioner" width="100" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">AWS Cloud Quest: Cloud Practitioner</a></strong> — June 2026<br/>
+      Fundamental AWS Cloud concepts with hands-on experience across compute, networking, database, and security services.
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <!-- TODO: swap org link for personal Credly public_url -->
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">
+        <img src="./assets/aws_solutions_architect.png" alt="AWS Cloud Quest Solutions Architect" width="100" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">AWS Cloud Quest: Solutions Architect</a></strong> — June 2026<br/>
+      Solution building with a broad set of AWS services — secure, fault-tolerant, and highly available architectures.
     </td>
   </tr>
   <tr>
@@ -120,15 +155,63 @@ Right now I'm:
   </tr>
 </table>
 
-### Other providers
+### Completed courses
 
-| Status | Certification |
-|--------|----------------|
-| _Reserved_ | — |
-| _Reserved_ | — |
-| _Reserved_ | — |
-| _Reserved_ | — |
-| _Reserved_ | — |
+<table>
+  <tr>
+    <td width="120">
+      <a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/">
+        <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/">AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents</a></strong> · Ed Donner<br/>
+      <a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter">
+        <img src="https://img.shields.io/badge/CS50x-000000?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter">CS50x — Introduction to Computer Science</a></strong> · Harvard University<br/>
+      <a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://www.credly.com/badges/2a6b4e76-e06e-42c5-b5ce-baab62253e3c/public_url">
+        <img src="https://img.shields.io/badge/IBM_SkillsBuild-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://www.credly.com/badges/2a6b4e76-e06e-42c5-b5ce-baab62253e3c/public_url">Artificial Intelligence Fundamentals</a></strong> · IBM SkillsBuild<br/>
+      AI concepts, ethics, Watson Studio, and applications across NLP, CV, and ML.
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://verify.skilljar.com/c/ju8fisjqds8w">
+        <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Anthropic" />
+      </a>
+    </td>
+    <td>
+      <strong><a href="https://verify.skilljar.com/c/ju8fisjqds8w">AI Fluency: Framework & Foundations</a></strong> · Anthropic Academy — April 2026<br/>
+      <a href="https://verify.skilljar.com/c/ju8fisjqds8w">Verify certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
+    </td>
+    <td>
+      <strong>Learn Terraform quickly, easily and effectively</strong> · Udemy<br/>
+      <em>Certificate link coming soon</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
