@@ -11,18 +11,18 @@
 - 🌱 I'm currently learning **Terraform in depth**, **AWS cloud services**, and **LLM evaluation**
 - 🤝 I'm looking to collaborate on **ETL pipelines**, **data engineering**, and **IaC**
 - 🤔 I'm looking for help with **Docker** and **advanced AWS architecture**
-- 💬 Ask me about **<a href="https://www.spacex.com/vehicles/starship" target="_blank" rel="noopener noreferrer">Starship & Super Heavy Booster</a>**
-- 📫 How to reach me: **<a href="https://www.linkedin.com/in/pantelis-t-6a7718249/" target="_blank" rel="noopener noreferrer">LinkedIn</a>** · **<a href="https://pantelis-tsagkas.com" target="_blank" rel="noopener noreferrer">Portfolio</a>**
-- ❤️ I love **shipping real projects** and **documenting what I learn** (like my <a href="https://pantelistsagkas.github.io/aws-cloud-quest-ml/" target="_blank" rel="noopener noreferrer">Cloud Quest walkthrough</a>)
+- 💬 Ask me about **[Starship & Super Heavy Booster](https://www.spacex.com/vehicles/starship)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/pantelis-t-6a7718249/)** · **[Portfolio](https://pantelis-tsagkas.com)**
+- ❤️ I love **shipping real projects** and **documenting what I learn** (like my [Cloud Quest walkthrough](https://pantelistsagkas.github.io/aws-cloud-quest-ml/))
 - ⚡ Fun fact: In Git we trust. Everyone else must push.
 
 ---
 
 ## Connect with Me
 
-<a href="https://pantelis-tsagkas.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/pantelis-t-6a7718249/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/PantelisTsagkas" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pantelis-tsagkas.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantelis-t-6a7718249/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PantelisTsagkas)
 
 ---
 
@@ -32,9 +32,9 @@ I'm a **Test Engineer** who cares about **software quality**, **practical AI**, 
 
 Right now I'm:
 
-- Documenting **<a href="https://pantelistsagkas.github.io/aws-cloud-quest-ml/" target="_blank" rel="noopener noreferrer">AWS Cloud Quest: Machine Learning</a>** — quest-by-quest notes from building and deploying models in SageMaker
+- Documenting **[AWS Cloud Quest: Machine Learning](https://pantelistsagkas.github.io/aws-cloud-quest-ml/)** — quest-by-quest notes from building and deploying models in SageMaker
 - Shipping **Terraform-first AWS projects** (pipelines, static hosting, serverless image processing)
-- Keeping **<a href="https://www.askbetter.co.uk" target="_blank" rel="noopener noreferrer">AskBetter</a>** live — a shipped prompt-enhancement product, not a WIP
+- Keeping **[AskBetter](https://www.askbetter.co.uk)** live — a shipped prompt-enhancement product, not a WIP
 - Frontend with **Next.js + AI assistance** when a product needs a UI (not my core competency, but it ships)
 
 ---
@@ -80,14 +80,14 @@ Right now I'm:
 
 ## Featured Projects
 
-- **<a href="https://github.com/PantelisTsagkas/aws-cloud-quest-ml" target="_blank" rel="noopener noreferrer">AWS Cloud Quest: ML</a>** — Walkthrough of every ML quest, services used, and how it fits together. <a href="https://pantelistsagkas.github.io/aws-cloud-quest-ml/" target="_blank" rel="noopener noreferrer">GitHub Pages</a> · <a href="https://github.com/PantelisTsagkas/aws-cloud-quest-ml" target="_blank" rel="noopener noreferrer">Repo</a>
-- **<a href="https://github.com/PantelisTsagkas/s3-terraform-cheat-sheet" target="_blank" rel="noopener noreferrer">s3-terraform-cheat-sheet</a>** — Terraform cheat sheet hosted on S3 + CloudFront (IaC publishes the asset itself)
-- **<a href="https://github.com/PantelisTsagkas/golden-fork-pipeline" target="_blank" rel="noopener noreferrer">golden-fork-pipeline</a>** — Serverless CSV → DynamoDB ingestion with validation, quarantine alerts, full Terraform IaC
-- **<a href="https://github.com/PantelisTsagkas/image-resizer-terraform" target="_blank" rel="noopener noreferrer">image-resizer-terraform</a>** — Presigned uploads, S3-triggered Lambda, three resized variants — zero console clicks
-- **<a href="https://github.com/PantelisTsagkas/termref" target="_blank" rel="noopener noreferrer">termref</a>** — AI-powered terminal cheat sheet generator
-- **<a href="https://www.askbetter.co.uk" target="_blank" rel="noopener noreferrer">AskBetter</a>** — **Live** prompt enhancement product. <a href="https://www.askbetter.co.uk" target="_blank" rel="noopener noreferrer">Site</a>
-- **<a href="https://pantelis-tsagkas.com" target="_blank" rel="noopener noreferrer">Portfolio</a>** — Personal site, blog, and project hub. <a href="https://pantelis-tsagkas.com" target="_blank" rel="noopener noreferrer">Live</a>
-- **<a href="https://github.com/PantelisTsagkas/amzn_tracker" target="_blank" rel="noopener noreferrer">AMZN Tracker</a>** · **<a href="https://github.com/PantelisTsagkas/diane_guide_for_lesvos" target="_blank" rel="noopener noreferrer">Diane - Guide for Lesvos</a>** · **<a href="https://georgia-yfanti.vercel.app" target="_blank" rel="noopener noreferrer">Georgia Yfanti - Dentist</a>** — Earlier Next.js builds
+- **[AWS Cloud Quest: ML](https://github.com/PantelisTsagkas/aws-cloud-quest-ml)** — Walkthrough of every ML quest, services used, and how it fits together. [GitHub Pages](https://pantelistsagkas.github.io/aws-cloud-quest-ml/) · [Repo](https://github.com/PantelisTsagkas/aws-cloud-quest-ml)
+- **[s3-terraform-cheat-sheet](https://github.com/PantelisTsagkas/s3-terraform-cheat-sheet)** — Terraform cheat sheet hosted on S3 + CloudFront (IaC publishes the asset itself)
+- **[golden-fork-pipeline](https://github.com/PantelisTsagkas/golden-fork-pipeline)** — Serverless CSV → DynamoDB ingestion with validation, quarantine alerts, full Terraform IaC
+- **[image-resizer-terraform](https://github.com/PantelisTsagkas/image-resizer-terraform)** — Presigned uploads, S3-triggered Lambda, three resized variants — zero console clicks
+- **[termref](https://github.com/PantelisTsagkas/termref)** — AI-powered terminal cheat sheet generator
+- **[AskBetter](https://www.askbetter.co.uk)** — **Live** prompt enhancement product. [Site](https://www.askbetter.co.uk)
+- **[Portfolio](https://pantelis-tsagkas.com)** — Personal site, blog, and project hub. [Live](https://pantelis-tsagkas.com)
+- **[AMZN Tracker](https://github.com/PantelisTsagkas/amzn_tracker)** · **[Diane - Guide for Lesvos](https://github.com/PantelisTsagkas/diane_guide_for_lesvos)** · **[Georgia Yfanti - Dentist](https://georgia-yfanti.vercel.app)** — Earlier Next.js builds
 
 ---
 
@@ -98,12 +98,12 @@ Exam-based credentials (paid certification exams).
 <table>
   <tr>
     <td width="120">
-      <a href="https://www.credly.com/badges/35530fa2-1b3c-4e7a-a6f9-91f3d6ee8a6f/public_url" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.credly.com/badges/35530fa2-1b3c-4e7a-a6f9-91f3d6ee8a6f/public_url">
         <img src="./assets/aws-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="100" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/35530fa2-1b3c-4e7a-a6f9-91f3d6ee8a6f/public_url" target="_blank" rel="noopener noreferrer">AWS Certified AI Practitioner</a></strong> — June 2025<br/>
+      <strong><a href="https://www.credly.com/badges/35530fa2-1b3c-4e7a-a6f9-91f3d6ee8a6f/public_url">AWS Certified AI Practitioner</a></strong> — June 2025<br/>
       Foundational AI, ML, and AWS AI services.
     </td>
   </tr>
@@ -120,34 +120,34 @@ Hands-on Cloud Quest roles, learning paths, and completed courses.
 <table>
   <tr>
     <td width="120">
-      <a href="https://www.credly.com/badges/f839cd12-fe61-4635-8c5a-153dca7458d2/public_url" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.credly.com/badges/f839cd12-fe61-4635-8c5a-153dca7458d2/public_url">
         <img src="./assets/aws_cloud_quest_cp.png" alt="AWS Cloud Quest Cloud Practitioner" width="100" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/f839cd12-fe61-4635-8c5a-153dca7458d2/public_url" target="_blank" rel="noopener noreferrer">AWS Cloud Quest: Cloud Practitioner</a></strong> — June 2026<br/>
+      <strong><a href="https://www.credly.com/badges/f839cd12-fe61-4635-8c5a-153dca7458d2/public_url">AWS Cloud Quest: Cloud Practitioner</a></strong> — June 2026<br/>
       Fundamental AWS Cloud concepts with hands-on experience across compute, networking, database, and security services.
     </td>
   </tr>
   <tr>
     <td width="120">
-      <a href="https://www.credly.com/badges/3b195cea-112f-4b2c-b367-bccabcf82bfc/public_url" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.credly.com/badges/3b195cea-112f-4b2c-b367-bccabcf82bfc/public_url">
         <img src="./assets/aws_solutions_architect.png" alt="AWS Cloud Quest Solutions Architect" width="100" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/3b195cea-112f-4b2c-b367-bccabcf82bfc/public_url" target="_blank" rel="noopener noreferrer">AWS Cloud Quest: Solutions Architect</a></strong> — June 2026<br/>
+      <strong><a href="https://www.credly.com/badges/3b195cea-112f-4b2c-b367-bccabcf82bfc/public_url">AWS Cloud Quest: Solutions Architect</a></strong> — June 2026<br/>
       Solution building with a broad set of AWS services — secure, fault-tolerant, and highly available architectures.
     </td>
   </tr>
   <tr>
     <td width="120">
-      <a href="https://www.credly.com/badges/a0ebca5c-01b3-4909-aabc-f57aec2df59a/public_url" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.credly.com/badges/a0ebca5c-01b3-4909-aabc-f57aec2df59a/public_url">
         <img src="./assets/aws-cloud-quest-machine-learning-training-badge.png" alt="AWS Cloud Quest Machine Learning" width="100" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/a0ebca5c-01b3-4909-aabc-f57aec2df59a/public_url" target="_blank" rel="noopener noreferrer">AWS Cloud Quest: Machine Learning</a></strong> — June 2026<br/>
+      <strong><a href="https://www.credly.com/badges/a0ebca5c-01b3-4909-aabc-f57aec2df59a/public_url">AWS Cloud Quest: Machine Learning</a></strong> — June 2026<br/>
       Hands-on solution building with AWS ML/AI services, including SageMaker model build, test, and deploy.
     </td>
   </tr>
@@ -158,46 +158,46 @@ Hands-on Cloud Quest roles, learning paths, and completed courses.
 <table>
   <tr>
     <td width="120">
-      <a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/">
         <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/" target="_blank" rel="noopener noreferrer">AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents</a></strong> · Ed Donner<br/>
-      <a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/" target="_blank" rel="noopener noreferrer">View certificate</a>
+      <strong><a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/">AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents</a></strong> · Ed Donner<br/>
+      <a href="https://www.udemy.com/certificate/UC-7854b6e8-411d-4fb6-962f-4ffde07c7e3d/">View certificate</a>
     </td>
   </tr>
   <tr>
     <td width="120">
-      <a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter" target="_blank" rel="noopener noreferrer">
+      <a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter">
         <img src="https://img.shields.io/badge/CS50x-000000?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50" />
       </a>
     </td>
     <td>
-      <strong><a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter" target="_blank" rel="noopener noreferrer">CS50x — Introduction to Computer Science</a></strong> · Harvard University<br/>
-      <a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter" target="_blank" rel="noopener noreferrer">View certificate</a>
+      <strong><a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter">CS50x — Introduction to Computer Science</a></strong> · Harvard University<br/>
+      <a href="https://certificates.cs50.io/8b0a42da-511a-4d90-ae65-3df40ec794d9.pdf?size=letter">View certificate</a>
     </td>
   </tr>
   <tr>
     <td width="120">
-      <a href="https://www.credly.com/badges/2a6b4e76-e06e-42c5-b5ce-baab62253e3c/public_url" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.credly.com/badges/2a6b4e76-e06e-42c5-b5ce-baab62253e3c/public_url">
         <img src="https://img.shields.io/badge/IBM_SkillsBuild-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/badges/2a6b4e76-e06e-42c5-b5ce-baab62253e3c/public_url" target="_blank" rel="noopener noreferrer">Artificial Intelligence Fundamentals</a></strong> · IBM SkillsBuild<br/>
+      <strong><a href="https://www.credly.com/badges/2a6b4e76-e06e-42c5-b5ce-baab62253e3c/public_url">Artificial Intelligence Fundamentals</a></strong> · IBM SkillsBuild<br/>
       AI concepts, ethics, Watson Studio, and applications across NLP, CV, and ML.
     </td>
   </tr>
   <tr>
     <td width="120">
-      <a href="https://verify.skilljar.com/c/ju8fisjqds8w" target="_blank" rel="noopener noreferrer">
+      <a href="https://verify.skilljar.com/c/ju8fisjqds8w">
         <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Anthropic" />
       </a>
     </td>
     <td>
-      <strong><a href="https://verify.skilljar.com/c/ju8fisjqds8w" target="_blank" rel="noopener noreferrer">AI Fluency: Framework & Foundations</a></strong> · Anthropic Academy — April 2026<br/>
-      <a href="https://verify.skilljar.com/c/ju8fisjqds8w" target="_blank" rel="noopener noreferrer">Verify certificate</a>
+      <strong><a href="https://verify.skilljar.com/c/ju8fisjqds8w">AI Fluency: Framework & Foundations</a></strong> · Anthropic Academy — April 2026<br/>
+      <a href="https://verify.skilljar.com/c/ju8fisjqds8w">Verify certificate</a>
     </td>
   </tr>
   <tr>
