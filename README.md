@@ -120,25 +120,23 @@ Hands-on Cloud Quest roles, learning paths, and completed courses.
 <table>
   <tr>
     <td width="120">
-      <!-- TODO: swap org link for personal Credly public_url -->
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+      <a href="https://www.credly.com/badges/f839cd12-fe61-4635-8c5a-153dca7458d2/public_url">
         <img src="./assets/aws_cloud_quest_cp.png" alt="AWS Cloud Quest Cloud Practitioner" width="100" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">AWS Cloud Quest: Cloud Practitioner</a></strong> — June 2026<br/>
+      <strong><a href="https://www.credly.com/badges/f839cd12-fe61-4635-8c5a-153dca7458d2/public_url">AWS Cloud Quest: Cloud Practitioner</a></strong> — June 2026<br/>
       Fundamental AWS Cloud concepts with hands-on experience across compute, networking, database, and security services.
     </td>
   </tr>
   <tr>
     <td width="120">
-      <!-- TODO: swap org link for personal Credly public_url -->
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">
+      <a href="https://www.credly.com/badges/3b195cea-112f-4b2c-b367-bccabcf82bfc/public_url">
         <img src="./assets/aws_solutions_architect.png" alt="AWS Cloud Quest Solutions Architect" width="100" />
       </a>
     </td>
     <td>
-      <strong><a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-solutions-architect-training-badge">AWS Cloud Quest: Solutions Architect</a></strong> — June 2026<br/>
+      <strong><a href="https://www.credly.com/badges/3b195cea-112f-4b2c-b367-bccabcf82bfc/public_url">AWS Cloud Quest: Solutions Architect</a></strong> — June 2026<br/>
       Solution building with a broad set of AWS services — secure, fault-tolerant, and highly available architectures.
     </td>
   </tr>
