@@ -28,14 +28,19 @@
 
 ## About Me
 
-I'm a **Test Engineer** who cares about **software quality**, **practical AI**, and **infrastructure you can reproduce**. Lately that's meant going deep on **AWS**, **Terraform**, and **SageMaker** — not just clicking in the console, but building, testing, and deploying models end to end.
+I'm a Test Engineer with a strong interest in distributed systems, cloud infrastructure, observability, and AI engineering. I enjoy understanding how complex systems work beneath the surface, from [Kubernetes](https://kubernetes.io/docs/home/) control planes and consensus algorithms to machine learning pipelines and production infrastructure.
 
-Right now I'm:
+Most of what I build starts with infrastructure as code. I enjoy creating reproducible systems, instrumenting them with proper observability, and documenting everything I learn along the way.
 
-- Documenting **[AWS Cloud Quest: Machine Learning](https://pantelistsagkas.github.io/aws-cloud-quest-ml/)** — quest-by-quest notes from building and deploying models in SageMaker
-- Shipping **Terraform-first AWS projects** (pipelines, static hosting, serverless image processing)
-- Keeping **[AskBetter](https://www.askbetter.co.uk)** live — a shipped prompt-enhancement product, not a WIP
-- Frontend with **Next.js + AI assistance** when a product needs a UI (not my core competency, but it ships)
+Currently I'm focused on:
+
+* Building cloud infrastructure with AWS and [Terraform](https://developer.hashicorp.com/terraform)
+* Exploring [Kubernetes](https://kubernetes.io/docs/home/) internals, distributed systems, and platform engineering
+* Developing AI-powered applications using modern [LLMs](https://ollama.com)
+* Learning machine learning engineering through Amazon SageMaker
+* Sharing detailed technical write-ups and hands-on projects
+
+I prefer building real systems over tutorial projects. Every repository here is something I've designed, deployed, broken, fixed, and documented.
 
 ---
 
@@ -53,6 +58,7 @@ Right now I'm:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
